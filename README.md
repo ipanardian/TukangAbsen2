@@ -17,9 +17,9 @@ An Android app written in Kotlin to hack your attendance steps becomes easier an
 ![screenshot_2017-10-20-16-28-28-357_com ipanardian tukangabsen](https://user-images.githubusercontent.com/415225/31814704-a14b377e-b5b4-11e7-940c-4a25a82ae280.png)
 
 ### Download
-[TukangAbsen Beta](https://github.com/ipanardian/TukangAbsen2/files/1401571/TukangAbsen.apk.zip)
+[TukangAbsen 2.0.1 Beta](https://github.com/ipanardian/TukangAbsen2/files/1425031/TukangAbsen_2.0.1.apk.zip)
 
-Checksum SHA-256: 43b49614ff450c368d4544c5bfaeee07b6652e4ede6c1223096ddd4142e835ba
+Checksum SHA-256: e0952b1eb68fcf80efaa479567ed2619f34c6f2d80287fcd3aab7ba96cfdf719
 
 *USE AT YOUR OWN RISK*
 
